@@ -1,0 +1,10 @@
+*.pyc
+config/*
+tmp/*
+.spyproject/*
+__pyche__/*
+data/*
+glove/*
+best/*
+labels_per_video/*
+eval/*

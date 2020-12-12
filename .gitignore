@@ -5,6 +5,4 @@ tmp/*
 __pyche__/*
 data/*
 glove/*
-best/*
-labels_per_video/*
 eval/*

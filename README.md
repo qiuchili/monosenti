@@ -41,7 +41,7 @@ Contributor: Qiuchi Li
       + Graph-MFN (Not available for the moment)
       + RMFN
       + MARN
-      + LMF (Local-Mixture & QDNN)
+      + QMF (Local-Mixture & QDNN)
       + Vanilla-LSTHM
   
 ### Grid Search for the best hyperparameters
